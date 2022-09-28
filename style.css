@@ -1,0 +1,80 @@
+:root {
+    --body-bg-color: #FAF7FD;
+    --purple: #BB99DD;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.Profile{
+    width: 200px;
+    height: 230px;
+    padding-top: 5%;
+    margin: 0 auto;
+    display: flex;
+    display: grid;
+    text-align: center;
+}
+
+.Profile-Picture{
+    width: 100%;
+    height: 100%;
+}
+
+.Profile-Mold{
+    width: 100%;
+    height: 100%;
+    position: flex;
+}
+
+.Buttons{
+    margin-top: 2%;
+}
+
+.Button{
+    width: 300px;
+    height: 50px;
+    margin: 0 auto;
+    display: flex;
+    display: grid;
+    text-align: center;
+    cursor: pointer;
+    font-size: 16px;
+    border: 2px solid var(--purple);
+    margin-top: 7px;
+    color: var(--purple);
+    padding-top: 12px;
+    border-radius: 2mm;
+    
+}
+
+/*.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+*/
+
+
+.Socials{
+    width: 400px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    justify-items: center;
+}
+
+.Social{
+    width: 50px;
+    height: 50px;
+    margin-right: 15px;
+    padding-left: 22px;
+}
