@@ -1,2 +1,2 @@
 # Social-Tree
-A simple site withHTML and CSS to a Social Tree
+A simple site with HTML and CSS to a Social Tree
